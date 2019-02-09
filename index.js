@@ -4,7 +4,7 @@ const path = require('path')
 const bytes = require('bytes')
 const pusage = require('pidusage')
 const heapdump = require('heapdump')
-const profiler = require('v8-profiler')
+const profiler = require('v8-profiler-node8')
 const memwatch = require('memwatch-next')
 const RateLimiter = require('limiter').RateLimiter
 
