@@ -30,7 +30,7 @@
     "limiter": "1.1.2",
     "memwatch-next": "0.3.0",
     "pidusage": "~1.1.5",
-    "v8-profiler": "~5.7.0"
+    "v8-profiler-node8": "~5.7.0"
   },
   "devDependencies": {
     "eslint-config-standard": "11.0.0",
